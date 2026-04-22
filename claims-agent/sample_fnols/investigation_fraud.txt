@@ -1,0 +1,50 @@
+FIRST NOTICE OF LOSS (FNOL)
+============================
+
+POLICY INFORMATION
+------------------
+Policy Number: POL-2023-AUTO-04471
+Policyholder Name: Mohammed Irfan Shaikh
+Effective Dates: 15-Aug-2023 to 14-Aug-2024
+Carrier: National Insurance Company Ltd.
+
+INCIDENT INFORMATION
+---------------------
+Date of Loss: 05-Apr-2024
+Time of Loss: 11:45 PM
+Location of Loss: Outer Ring Road, Near Shamshabad, Hyderabad
+Description: Claimant reports that the vehicle was damaged in a collision with a stationary divider. However, witness accounts and CCTV footage reviewed by our field agent appear inconsistent with the reported damage pattern. The nature and distribution of impact damage is staged and does not match a solo vehicle incident. Field investigator suspects this may be a fabricated claim. The damage appears inconsistent with the described incident trajectory.
+
+INVOLVED PARTIES
+-----------------
+Claimant Name: Mohammed Irfan Shaikh
+Claimant Contact: +91-9700112233
+Email: irfan.shaikh@gmail.com
+Third Parties: None reported
+
+ASSET DETAILS
+--------------
+Asset Type: Motor Vehicle
+Asset ID / Vehicle Number: TS-11-GH-9900
+Make: Honda
+Model: City
+Year: 2021
+VIN: MAKGM6510M2123456
+Body Type: Sedan
+
+DAMAGE INFORMATION
+-------------------
+Describe Damage: Front bumper damage, bonnet dented, headlights broken, airbags deployed
+Estimated Damage: 95000
+Where Can Vehicle Be Seen?: Roadside, currently with claimant
+
+CLAIM INFORMATION
+------------------
+Claim Type: Auto
+Initial Estimate: 95000
+Attachments: Claimant photos only (no independent verification)
+
+POLICE / FIRE DEPARTMENT
+--------------------------
+Police or Fire Department Contacted: Yes
+Report Number: HYD-ORR-2024-0405-017

@@ -1,0 +1,46 @@
+FIRST NOTICE OF LOSS (FNOL)
+============================
+
+POLICY INFORMATION
+------------------
+Policy Number: POL-2024-PROP-01155
+Policyholder Name: Srinivas Reddy Muppala
+Effective Dates: 10-Jan-2024 to 09-Jan-2025
+Carrier: United India Insurance Co. Ltd.
+
+INCIDENT INFORMATION
+---------------------
+Date of Loss: 20-Apr-2024
+Time of Loss: 2:00 AM
+Location of Loss: Plot No. 45, Industrial Estate, Nacharam, Hyderabad
+Description: A fire broke out in the insured commercial warehouse in the early hours of the morning. The fire is believed to have started in the electrical panel room due to a short circuit. The fire brigade was called and arrived within 20 minutes. The fire was brought under control after approximately 2 hours but not before destroying a significant portion of the stored inventory (electronics components) and damaging the roof structure of Bay 2. No casualties reported. Fire brigade has submitted a preliminary cause report attributing the fire to electrical failure.
+
+INVOLVED PARTIES
+-----------------
+Claimant Name: Srinivas Reddy Muppala
+Claimant Contact: +91-9848023456
+Email: srinivas@redmuppalaindustries.com
+Third Parties: None
+
+ASSET DETAILS
+--------------
+Asset Type: Commercial Property (Warehouse)
+Asset ID: Plot 45, Industrial Estate, Nacharam
+Estimated Damage: 1250000
+Where Can Damage Be Seen?: At premises, accessible 9am–5pm weekdays
+
+DAMAGE INFORMATION
+-------------------
+Describe Damage: Roof structure of Bay 2 partially collapsed; inventory loss (electronics components) valued at approx ₹9.5 lakhs; electrical panel destroyed; fire suppression system triggered and needs replacement
+Estimated Damage: 1250000
+
+CLAIM INFORMATION
+------------------
+Claim Type: Property
+Initial Estimate: 1250000
+Attachments: Fire brigade report, police FIR, inventory list, property photos, electrical panel inspection report
+
+POLICE / FIRE DEPARTMENT
+--------------------------
+Police or Fire Department Contacted: Yes (both)
+Report Number: NACH-PS-2024-0420-004

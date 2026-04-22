@@ -1,0 +1,50 @@
+FIRST NOTICE OF LOSS (FNOL)
+============================
+
+POLICY INFORMATION
+------------------
+Policy Number: POL-2024-AUTO-00145
+Policyholder Name: Rajesh Kumar Sharma
+Effective Dates: 01-Jan-2024 to 31-Dec-2024
+Carrier: SecureLife Insurance Ltd.
+
+INCIDENT INFORMATION
+---------------------
+Date of Loss: 15-Mar-2024
+Time of Loss: 10:30 AM
+Location of Loss: MG Road, Hyderabad, Telangana - 500003
+Description: The insured vehicle was rear-ended by another vehicle at the MG Road signal. The damage is limited to the rear bumper and tail lights. No injuries reported. Police were not involved. Minimal traffic incident during morning commute.
+
+INVOLVED PARTIES
+-----------------
+Claimant Name: Rajesh Kumar Sharma
+Claimant Contact: +91-9876543210
+Email: rajesh.sharma@email.com
+Third Parties: Driver of vehicle MH-12-AB-1234 (Suresh Patil, +91-9812345678)
+
+ASSET DETAILS
+--------------
+Asset Type: Motor Vehicle
+Asset ID / Vehicle Number: TS-09-EF-5678
+Make: Maruti Suzuki
+Model: Swift Dzire
+Year: 2022
+VIN: MA3FJEB1S00123456
+Body Type: Sedan
+
+DAMAGE INFORMATION
+-------------------
+Describe Damage: Rear bumper cracked, right tail light broken, minor dent on boot lid
+Estimated Damage: 18500
+Where Can Vehicle Be Seen?: Authorised Maruti Service Centre, Begumpet, Hyderabad
+
+CLAIM INFORMATION
+------------------
+Claim Type: Auto
+Initial Estimate: 18500
+Attachments: Photos of damage (3 images), copy of RC book, driving licence
+
+POLICE / FIRE DEPARTMENT
+--------------------------
+Police or Fire Department Contacted: No
+Report Number: N/A
